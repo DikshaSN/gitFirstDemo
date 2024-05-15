@@ -19,5 +19,11 @@ public class Gitdemotest {
 		System.out.println("First git demo test22");
 	}
 
+	@Test
+	public void gitDemotest3() {
+		System.out.println("First git demo test223");
+		System.out.println("First git demo test123");
+		System.out.println("First git demo test223");
+	}
 	
 }
